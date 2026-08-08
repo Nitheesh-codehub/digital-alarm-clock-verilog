@@ -115,12 +115,6 @@ regression.
   time with no way to silence it long-term. The RTL does what it was told — the requirement to
   disable it was just never specified.
 
-## Block diagram
-
-![block diagram](block_diagram.png)
-
-*(swap in your actual diagram image — same one used in the Day 23 post)*
-
 ## Series write-up
 
 This project was built and verified as a 30-day daily series on LinkedIn — day-by-day breakdown
